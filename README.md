@@ -4,22 +4,15 @@
 
 ### A High-Performance Event-Driven Architecture for Real-Time Public Transit Intelligence
 
-[![Architecture](https://img.shields.io/badge/Architecture-Event--Driven-blue? style=for-the-badge&logo=apachekafka)](https://kafka.apache.org/)
-[![Language](https://img. shields.io/badge/Language-Go-00ADD8?style=for-the-badge&logo=go)](https://golang.org/)
-[![Processing](https://img. shields.io/badge/Stream_Processing-Apache_Flink-E6526F?style=for-the-badge&logo=apacheflink)](https://flink.apache.org/)
-[![Database](https://img. shields.io/badge/Database-ScyllaDB-53CADD?style=for-the-badge&logo=scylladb)](https://www.scylladb.com/)
-[![Cache](https://img. shields.io/badge/Cache-Redis-DC382D?style=for-the-badge&logo=redis)](https://redis.io/)
-[![License](https://img. shields.io/badge/License-MIT-green? style=for-the-badge)](LICENSE)
+**Made with:** Go • Apache Kafka • Apache Flink • Redis • ScyllaDB • PostgreSQL
 
-<br/>
+---
 
-**Track 20,000+ vehicles | 50,000 events/second | Sub-3 second latency | 99.99% uptime**
+**Track 20,000+ vehicles | 50,000 events/second | Sub-3 second latency | 99. 99% uptime**
 
-<br/>
+---
 
-![Status](https://img. shields.io/badge/Status-Production_Ready-brightgreen? style=flat-square)
-![Scalability](https://img.shields.io/badge/Scalability-Horizontal-blue?style=flat-square)
-![Compliance](https://img. shields.io/badge/Compliance-GTFS--Realtime-orange?style=flat-square)
+[Features](#-core-features--capabilities) • [Architecture](#-system-architecture-overview) • [Tech Stack](#-technology-stack-deep-dive) • [API](#-api-reference--integration) • [Deployment](#-deployment-architecture)
 
 </div>
 
